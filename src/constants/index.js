@@ -32,7 +32,7 @@ const ticketOffer = [
   {
     id: 1,
     name: "Three for one",
-    days: [3], //Days 1-6 => Mon-Sat, 0 => Sun
+    days: [4], //Days 1-6 => Mon-Sat, 0 => Sun
     type: 1,
     amount: 2,
   },
