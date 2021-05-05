@@ -1,0 +1,30 @@
+.billing-mainContainer {
+  width: 80%;
+  margin: 6% 0;
+}
+
+.billing-container {
+  display: flex;
+  justify-content: space-between;
+  border-top: 5px solid #d8d8d8;
+}
+
+.ticket-typeName {
+  width: 160px;
+}
+
+.display-offersContainer {
+  margin-top: 40px;
+}
+
+.extras {
+  margin-left: 10px;
+}
+
+.total-bill {
+  margin-top: 5%;
+}
+
+.billing-details {
+  width: 10%;
+}
